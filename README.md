@@ -1,4 +1,4 @@
 amalog
 ======
 
-Amateur Prolog
+Amateur Prolog. This is just for fun.
