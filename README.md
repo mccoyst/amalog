@@ -1,0 +1,4 @@
+amalog
+======
+
+Amateur Prolog
